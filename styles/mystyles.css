@@ -1,0 +1,103 @@
+.bckg{
+    background-image: url('../images/gradient1.avif');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+.avatar{
+    border-radius: 50%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.resdate{
+    margin-bottom: 5px;
+}
+
+.resdesc{
+    margin-top: 0px;
+    font-weight: lighter;
+}
+
+.column {
+    float: left;
+    width: 33.33%;
+    padding: 5px;
+  }
+
+  .row::after {
+    content: "";
+    clear: both;
+    display: table;
+  }
+
+  .left-image{
+      margin-left: 45%;
+
+  }
+
+  .center-image{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  .right-image{
+      margin-left: 25%;
+  }
+
+  .center-text{
+      text-align: center;
+  }
+
+  .left-text{
+    margin-left: 30%;
+    text-align: center;
+  }
+
+  .right-text{
+    margin-left: 10%;
+    margin-right: 15%;
+    text-align: center;
+  }
+
+  #lessbold{
+      font-weight: lighter;
+  }
+
+  .title-heading{
+      text-align: center;
+  }
+
+  #centerbetter{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  #buttoncolor{
+      color:lightblue
+  }
+
+  .italics{
+      font-style: italic;
+  }
+
+  #betterright{
+      margin-right:35%;
+  }
+
+  #betterleft{
+      margin-left:35%;
+  }
+
+  .better-rtext{
+      margin-right: 35%;
+      text-align: center;
+  }
+
+  .better-ltext{
+      margin-left: 35%;
+      text-align:center;
+  }

@@ -1,0 +1,54 @@
+.navi{
+    text-align: right;
+}
+
+
+.header{
+    height: 200px;
+    background-color: pink;
+    line-height: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+
+}
+
+
+.footer{
+    height: 140px;
+    background-color: blanchedalmond;
+    color: black;
+    font-weight: bold;
+    margin-left: 0px;
+    margin-right: 0px;
+    text-align: center;
+}
+
+.box1{
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 20px;
+    padding-right: 20px;
+    margin-left: 40px;
+    margin-right: 40px;
+    background-color: rgb(116, 116, 88);
+}
+
+.tableau{
+    width: 50%;
+}
+
+.bckg{
+    background-image: url('../images/gradient1.avif');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+body{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color:antiquewhite;
+    margin-left: 20%;
+    margin-right: 20%;
+    text-align:center;
+}
